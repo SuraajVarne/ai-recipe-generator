@@ -59,4 +59,33 @@ Real-Time Updates: Leveraging React.js, the UI updates instantly based on user i
 ## Live Demo
 Link: https://main.d2ne5lxv2tdodf.amplifyapp.com/
 
+## Screenshots
+
+### Login Page 
+![3420login](https://github.com/user-attachments/assets/9bf062f8-b98f-4555-9448-c9aa69a83af1)
+Secure user authentication powered by AWS Amplify.
+
+
+
+### Recipe Generator
+![appss1](https://github.com/user-attachments/assets/3ce62ffc-47c5-40ce-b297-dcfc7b7218e1)
+![appss2](https://github.com/user-attachments/assets/bcc78f6d-e5c7-4acf-ad4b-273a34414ee6)
+![appss3](https://github.com/user-attachments/assets/cebad2cd-9abd-440a-ac12-66a9864741e7)
+Seamless UI for entering ingredients and generating recipes.
+
+### Challenges Faced
+Authentication Integration: Setting up AWS Cognito for secure and scalable user authentication.
+Dynamic Data Handling: Ensuring accurate and efficient handling of user inputs for recipe generation.
+Cloud Deployment: Configuring AWS Amplify for seamless hosting and CI/CD.
+
+### Future Enhancements (Scope)
+Localization: Add support for multiple languages.
+Analytics: Incorporate analytics to track recipe popularity.
+AI Integration: Implement advanced AI algorithms for better recipe suggestions.
+
+### License
+This project is licensed under the MIT License
+
+
+
 
