@@ -74,17 +74,17 @@ Secure user authentication powered by AWS Amplify.
 
 Seamless UI for entering ingredients and generating recipes.
 
-### Challenges Faced
+## Challenges Faced
 Authentication Integration: Setting up AWS Cognito for secure and scalable user authentication.
 Dynamic Data Handling: Ensuring accurate and efficient handling of user inputs for recipe generation.
 Cloud Deployment: Configuring AWS Amplify for seamless hosting and CI/CD.
 
-### Future Enhancements (Scope)
+## Future Enhancements (Scope)
 Localization: Add support for multiple languages.
 Analytics: Incorporate analytics to track recipe popularity.
 AI Integration: Implement advanced AI algorithms for better recipe suggestions.
 
-### License
+## License
 This project is licensed under the MIT License
 
 
