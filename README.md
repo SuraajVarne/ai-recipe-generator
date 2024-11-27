@@ -70,7 +70,8 @@ Secure user authentication powered by AWS Amplify.
 ### Recipe Generator
 ![appss1](https://github.com/user-attachments/assets/3ce62ffc-47c5-40ce-b297-dcfc7b7218e1)
 ![appss2](https://github.com/user-attachments/assets/bcc78f6d-e5c7-4acf-ad4b-273a34414ee6)
-![appss3](https://github.com/user-attachments/assets/cebad2cd-9abd-440a-ac12-66a9864741e7)
+![appss3](https://github.com/user-attachments/assets/888263f9-c136-4c1c-bd87-dfd5fd6e03c3)
+
 Seamless UI for entering ingredients and generating recipes.
 
 ### Challenges Faced
